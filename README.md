@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Inga</h1>
 <h3 align="left">Who am I and what do i do?</h3>
-- Second year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
-- I love working with Html, Css and Javascript      
-- Goals: Get better at CSS, Javascript, React and learn new things like Three.js and app development
-- Hobby: Frisbeegolf and tutorials
+ - Second year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
+ - I love working with Html, Css and Javascript      
+ - Goals: Get better at CSS, Javascript, React and learn new things like Three.js and app development
+ - Hobby: Frisbeegolf and tutorials
 
 <h3 align="left">How to get in touch</h3>
 <p align="left">
 <a href="https://instagram.com/ingab95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ingab95" height="30" width="40" /></a>
 </p>
-[linkedin]:
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/inga-brandsnes-574ba3129/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inga-brandsnes-574ba3129/" height="30" width="40" /></a>
+</p>
+
 
 
 <h3 align="left">Languages and Tools I know:</h3>
