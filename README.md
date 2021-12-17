@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inga</h1>
 <h3 align="left">Who am I and what do i do?</h3>
+* Second year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
+* 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
