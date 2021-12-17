@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Inga</h1>
-## Who am I and what do i do?
+
+## Who am I and what do i do? 
  - Second year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
  - I love working with Html, Css and Javascript      
  - Goals: Get better at CSS, Javascript, React and learn new things like Three.js and app development
