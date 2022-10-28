@@ -2,8 +2,8 @@
 
 ## Who am I and what do i do? 
  - Third year Frontend and mobile-development student at University of Kristiania in Oslo, Norway
- - I love working with Html, Css and Javascript      
- - Goals: Get better at CSS, Javascript, React and learn new things like Three.js and app development
+ - I love working with Html, Css, Javascript and my new passion: App development! ❤️    
+ - Goals: Get better at CSS, Javascript, React, iOS development and learn new things like Three.js 
  - Hobby: Frisbeegolf and tutorials
 <br>
 
