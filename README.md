@@ -25,7 +25,7 @@
 ## Projects in progress / planning
 
 ### Planning 
-- Portfolio
+- Pizza website
 
 
 
